@@ -1,0 +1,13 @@
+name: Pred_jonathan
+title: Pred_jonathan
+username:
+account: jonathanestatistica
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2448760
+bundleId: 3362962
+url: https://jonathanestatistica.shinyapps.io/Pred_jonathan/
+when: 1594135331.0739
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Untitled.html|anterior

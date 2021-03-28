@@ -1,0 +1,13 @@
+name: App-03
+title:
+username:
+account: jonathanestatistica
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2353692
+bundleId: 3245537
+url: https://jonathanestatistica.shinyapps.io/App-03/
+when: 1591673877.39099
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app2.R|dados.csv|dados.Rda|dados2.csv|dados2.Rda|dados3.Rda
